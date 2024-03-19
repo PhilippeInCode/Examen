@@ -21,9 +21,36 @@ Et ut pupita ad tempor exercitation irure sexuarl qué dise usteer. Voluptate ni
 
 EJEMPLO DE CURSIVA, NEGRITA Y TACHADO
 
-Esto es un ejemplo de texto ~~tachado~~
+Esto es un ejemplo de texto ~~tachado~~ en Markdown.
+*Esto está en itálica*
+_Esto es otra forma de poner itálica_
+**Este texto esta en negrita**
+__Este texto también esta en negrita__
+*Puedes **combinar** estilos*
+***combinar***
 
+EJEMPLO DE CARACTERES ESCAPADOS
 
+\*Esto es una frase con dos asteriscos\*
 
+EJEMPLO DE UNA CITA 
 
+> Esta es una cita de prueba. - Alguien Con Apellido
 
+EJEMPLO DE LISTAS
+* elemento 1
+
+1. Elemento 1
+  * sub elemento
+2.
+3.
+4.
+
+EJEMPLO DE CHECKBOX
+
+- [] texto sin marcar
+- [x]
+
+EJEMPLO DE EMOJIS
+
+:+1
