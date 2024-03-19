@@ -48,11 +48,10 @@ EJEMPLO DE LISTAS
 
 EJEMPLO DE CHECKBOX
 
-- [] texto sin marcar
+- [ ] texto sin marcar
 - [x]
 
 EJEMPLO DE EMOJIS
 
 :+1:
 
-:puke:
