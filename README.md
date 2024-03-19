@@ -57,4 +57,6 @@ EJEMPLO DE EMOJIS
 
 EJEMPLO DE BLOQUE DE CÓDIGO
 
+```bash
+ npm install
 ```
