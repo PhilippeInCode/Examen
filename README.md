@@ -49,9 +49,12 @@ EJEMPLO DE LISTAS
 EJEMPLO DE CHECKBOX
 
 - [ ] texto sin marcar
-- [x]
+- [x] texto marcado
 
 EJEMPLO DE EMOJIS
 
 :+1:
 
+EJEMPLO DE BLOQUE DE CÓDIGO
+
+```
